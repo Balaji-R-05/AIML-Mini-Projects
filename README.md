@@ -9,6 +9,7 @@ This repository includes AI and ML-focused mini projects ranging from simple ML 
 |`house-price-prediction`       | Predicting house price based on area using **linear regression**.|
 |`salary-price-prediction`      | Predicting salary based on experience using **linear regression**.    |
 |`startup-profit-prediction`    | Predicting profit based on R&D, administartion and marketing using **mutiple regression**.This involves using encoding for categorical column. |
+|`ai-ping-pong`                 | A simple **computer vs human** ping-pong game |
 
 
 
@@ -20,7 +21,7 @@ This repository includes AI and ML-focused mini projects ranging from simple ML 
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/Balaji-R-05/aiml-mini-project.git
+git clone https://github.com/Balaji-R-05/AIML-Mini-Projects.git
 cd aiml-mini-project
 ```
 ### 2. Create python environment and activate it
